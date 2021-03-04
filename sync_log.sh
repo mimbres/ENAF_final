@@ -1,0 +1,1 @@
+sudo aws s3 sync logs s3://dfp-exp/logs
